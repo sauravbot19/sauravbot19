@@ -1,8 +1,8 @@
-# Hi, I'm Saurav Tayade! 🐱
+# Hi, I'm Saurav Tayade! ☺️
 
 ---
 
-<img align="right" src="[LINK_TO_YOUR_IMAGE]" width="250">
+<img align="right" src="https://chatgpt.com/backend-api/estuary/content?id=file_0000000031c47209b16adcca969d07ab&ts=491861&p=fs&cid=1&sig=e3d1dd1606c5692bfc5c89a5776e2dd1ae5aec2adbaa0b1c841d44e0a01c408d&v=0" width="250">
 
 ### 2.5 Exp Software Engineer (Java)
 
@@ -13,7 +13,8 @@
 
 <br/>
 
-## 🐱 A little more about me...
+<img src="[https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTRsZWNhbnRvcTB4anliMXphbWFmNXBpaHFxemhpOG02M2dlNzd4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6vY1Vp3jusy0x5G8/giphy.gif)" width="80" />
+## A little more about me...
 
 ```Java
 public class Saurav {
@@ -89,4 +90,9 @@ public class Saurav {
             "Eclipse IDE"
     };
 }
+
+ I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
+<p align="right">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGc5MWsyc2NiYzBydzF5aGZwNWF6azM1aXdmZzJpbmZsZjRrYXlydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="150"/>
+</p>
 
