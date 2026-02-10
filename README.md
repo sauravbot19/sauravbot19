@@ -2,9 +2,9 @@
 
 ---
 
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGc5MWsyc2NiYzBydzF5aGZwNWF6azM1aXdmZzJpbmZsZjRrYXlydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGc5MWsyc2NiYzBydzF5aGZwNWF6azM1aXdmZzJpbmZsZjRrYXlydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="220" style="border-radius:50%;" />
 
-### 2.5 Exp Software Engineer (Java)
+### 2.5 Exp Software Engineer (Java Backend)
 
 <p>
   <img src="https://img.shields.io/badge/sauravbot19-blue?style=for-the-badge" />
@@ -15,80 +15,27 @@
 
 ## A little more about me...
 
-```Java
+```java
 public class Saurav {
 
-    // Professional Identity
     String role = "Java Backend Developer";
-    String experienceLevel = "Mid-Level Backend Engineer";
-    String passion = "Designing scalable APIs and building reliable backend systems";
+    String passion = "Building scalable APIs & backend systems";
 
-    // Core Languages
-    String[] languages = {
-            "Java 8",
-            "SQL",
-            "JavaScript"
-    };
-
-    // Backend Technologies
     String[] backend = {
-            "Spring Boot",
-            "Spring MVC",
-            "Spring Security",
-            "Hibernate",
-            "JPA",
-            "RESTful Web Services",
-            "API Design & Development",
-            "Microservices Architecture"
+        "Spring Boot", "Spring MVC", "Spring Security",
+        "Hibernate/JPA", "REST APIs", "Microservices"
     };
 
-    // Databases
-    String[] databases = {
-            "MySQL",
-            "SQL Server",
-            "Oracle"
-    };
+    String[] databases = {"MySQL", "SQL Server", "Oracle"};
 
-    // DevOps & Tools
-    String[] devOps = {
-            "Docker (Basic)",
-            "Jenkins",
-            "Maven",
-            "CI/CD Pipelines",
-            "AWS (Basic)"
-    };
+    String[] devOps = {"Docker", "Jenkins", "Maven", "CI/CD", "AWS"};
 
-    // Testing & API Tools
-    String[] testing = {
-            "JUnit 5",
-            "Postman"
-    };
+    String[] tools = {"JUnit 5", "Postman", "Git", "Bitbucket"};
 
-    // Version Control
-    String[] versionControl = {
-            "Git",
-            "GitHub",
-            "Bitbucket",
-            "TortoiseGit"
-    };
+    String[] concepts = {"OOP", "DSA", "Exception Handling", "Agile"};
 
-    // Concepts & Methodologies
-    String[] concepts = {
-            "OOP",
-            "DSA",
-            "Exception Handling",
-            "JWT Authentication",
-            "Agile Methodology",
-            "Layered Architecture",
-            "MVC Pattern"
-    };
-
-    // IDEs
-    String[] ides = {
-            "IntelliJ IDEA",
-            "Eclipse IDE"
-    };
+    String[] ides = {"IntelliJ IDEA", "Eclipse"};
 }
 
- I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
+I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :) 
 <hr>
