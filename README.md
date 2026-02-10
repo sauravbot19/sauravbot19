@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm [Your Name]! 🐱
 
-<!--
-**sauravbot19/sauravbot19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<img align="right" src="[LINK_TO_YOUR_IMAGE]" width="250">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 2.5 Exp Software Engineer (Java)
+
+<p>
+  <img src="https://img.shields.io/badge/[sauravbot19]-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/[sauravbot19]?label=Follow&style=social" />
+</p>
+
+<br/>
+
+## 🐱 A little more about me...
+
+```javascript
+const [yourName] = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+    coorganizer: "AfroPython",
+    speaker: "Latinity",
+    mentor: "EducaTRANSforma"
+  },
+  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
