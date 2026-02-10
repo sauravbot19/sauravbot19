@@ -7,9 +7,15 @@
 ### 2.5 Exp Software Engineer (Java Backend)
 
 <p>
-  <img src="https://img.shields.io/badge/sauravbot19-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/sauravbot19?label=Follow&style=social" />
+  <a href="https://www.linkedin.com/in/saurav-tayade-1147011b5/" target="_blank">
+    <img src="https://img.shields.io/badge/sauravtayade-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://github.com/sauravbot19" target="_blank">
+    <img src="https://img.shields.io/github/followers/sauravbot19?label=Follow&style=for-the-badge" />
+  </a>
 </p>
+
 
 <br/>
 
@@ -36,6 +42,6 @@ public class Saurav {
 
     String[] ides = {"IntelliJ IDEA", "Eclipse"};
 }
-
-I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :) 
+```
+I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
 <hr>
