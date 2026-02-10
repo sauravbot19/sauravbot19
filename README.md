@@ -2,7 +2,7 @@
 
 ---
 
-<img align="right" src="[https://chatgpt.com/backend-api/estuary/content?id=file_0000000031c47209b16adcca969d07ab&ts=491861&p=fs&cid=1&sig=e3d1dd1606c5692bfc5c89a5776e2dd1ae5aec2adbaa0b1c841d44e0a01c408d&v=0](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGc5MWsyc2NiYzBydzF5aGZwNWF6azM1aXdmZzJpbmZsZjRrYXlydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)" width="250">
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGc5MWsyc2NiYzBydzF5aGZwNWF6azM1aXdmZzJpbmZsZjRrYXlydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
 
 ### 2.5 Exp Software Engineer (Java)
 
